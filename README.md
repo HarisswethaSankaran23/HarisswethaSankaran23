@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-- [Python in CSC COMPUTER EDUCATION]
+- [Python in CSC COMPUTER EDUCATION](https://github.com/HarisswethaSankaran23/LABURL)
 
 
 <h2> 🤳 Connect with me:</h2>
