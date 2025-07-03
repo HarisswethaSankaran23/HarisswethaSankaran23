@@ -12,13 +12,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Haris swetha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Haris swetha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Haris swetha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/haris-swetha-s-70405227b/
 
 <!--
