@@ -1,0 +1,60 @@
+# Epileptic Classification with Deep Transfer Learning
+
+This project focuses on the classification of brain tumors using MRI scans, leveraging deep learning and traditional machine learning classifiers for accurate detection.
+
+## 🧠 Project Summary
+
+The human brain plays a critical role in body function. Tumors that originate in brain tissue can be fatal if not diagnosed early. This project explores a deep-transfer-learning-based feature fusion approach to detect and classify brain tumors from MRI images using a CNN pipeline.
+
+## 📌 Highlights
+
+- Used **Adaptive Bilateral Filter** for MRI image noise removal.
+- Performed **segmentation using Convolutional Neural Network (CNN)**.
+- Applied **binary thresholding** for enhanced tumor region extraction.
+- Compared multiple classifiers:
+  - K-Nearest Neighbors (KNN)
+  - Logistic Regression
+  - Multilayer Perceptron (MLP)
+  - Random Forest
+  - Naive Bayes
+  - Proposed Transfer Learning Fusion Model
+
+## 🔍 Modules
+
+1. Input MRI Image
+2. Image Preprocessing
+3. Image Enhancement
+4. Segmentation
+5. Brain Tumor Classification
+6. Result Visualization
+
+## 📸 Sample Output
+
+*(Add sample input/output images here)*
+
+## 💡 Motivation
+
+- Support early detection to reduce death rates.
+- Automate medical diagnosis using image processing.
+- Relieve pressure from manual diagnosis in under-resourced medical systems.
+
+## 🔬 Technologies Used
+
+- Python
+- OpenCV
+- TensorFlow/Keras (for CNN)
+- Scikit-learn
+- Matplotlib
+
+## 🚀 Future Scope
+
+- Integration into a real-time diagnostic user interface.
+- Multi-class classification (benign vs malignant).
+- 3D MRI image analysis.
+
+## 📂 Dataset
+
+> MRI brain tumor images from public datasets (please mention dataset link if used)
+
+---
+
