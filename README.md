@@ -1,9 +1,9 @@
 <h1>Hi, I'm Swetha! </h1>
 
-<h2>🎓 Master’s in Computer Science  :</h2>
-<h2>💡 Passionate about AI, Machine Learning, and Data Science :</h2>
-<h2>   🌱 Currently expanding my skills in Python and data analytics  :</h2>
-<h2> 🔍 Interested in solving real-world problems through intelligent systems:</h2>
+<h2>🎓 Master’s in Computer Science </h2>
+<h2>💡 Passionate about AI, Machine Learning, and Data Science </h2>
+<h2>   🌱 Currently expanding my skills in Python and data analytics </h2>
+<h2> 🔍 Interested in solving real-world problems through intelligent systems </h2>
 
 
   - [Activity Directory Lab](https://github.com/HarisswethaSankaran23/LABURL)
